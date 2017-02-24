@@ -1,0 +1,95 @@
+.main{
+	height:462px;
+}
+.sidebar{
+	height:628px;
+}
+.main .banner{
+	height:490px;
+}
+.main .container{
+	width: 51%;
+	margin-left: 24.5%;
+	height: 440px;
+}
+.container-main{
+	margin: 0 auto;
+	width:650px;
+	height:400px;
+	background-color: #FFF;
+}
+.GoodsImage{
+	width:400px;
+	height:400px;
+	float:left;
+	background-color:red;
+}
+.GoodsImage img{
+	width:100%;
+	height:100%;
+}
+.GoodsInfor{
+	width:250px;
+	height:400px;
+	float:left;
+
+}
+.GoodsInfortit{
+	width:250px;
+	height:99px;
+	border-bottom:1px dotted #A9A5A5;
+	border:1px solid #FFF;
+}
+.GoodsInfortit p{
+	margin-top:15px;
+	margin-left:20px;
+	color:  rgb(75,192,165);
+	font-size: 18px;
+}
+.GoodsInfortit span{
+	display: inline-block;
+	margin-top:15px;
+	margin-left:20px;
+	height:30px;
+	line-height: 30px;
+    float:left;
+}
+.price{
+	color:rgb(235,80,85);
+	font-size:25px;
+}
+.jj{
+	color:#7B7272;
+	font-size:12px;
+
+}
+.GoodsInformain{
+	width:100px;
+	height:300px;
+	float:left;
+	text-align: right;
+}
+.GoodsInformain sapn{
+	display:block;
+	background-color:rgb(75,192,165);
+	margin-top:24px;
+	height:30px;
+	margin-left:20px;
+	line-height:30px;
+	text-align:center;
+	margin-right: 10px;
+}
+.Informain{
+	width:150px;
+	height:300px;
+	float:left;
+	text-align:left;
+}
+.Informain sapn{
+	display:block;
+	margin-top:24px;
+	height:30px;
+	margin-left:10px;
+	line-height:30px;
+	text-align:left;
+}
